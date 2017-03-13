@@ -55,6 +55,39 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+p {
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+ul li {
+    background: #cce5ff;
+    margin: .5cm;
+}
+
+.p {
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+.thesisLink {
+    background: #eee5ff;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+h1 {
+    font-family: Orbitron;
+    color: #00aa00;
+}
+
+a {
+    color: #00aa00;
+}
+
+.panel {
+    font-family: Diplomata;
+}
 
 
 
